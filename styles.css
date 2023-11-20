@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.container {
+    width: 100vw;
+}
+
+.blue {
+    background-color: rgb(43, 224, 224);
+}
+
+.content-header {
+    width: 60%;
+}
+
+.whatsapp {
+    padding: 1em;
+}
+
+.square {
+    background-color: rgb(185, 185, 185);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
